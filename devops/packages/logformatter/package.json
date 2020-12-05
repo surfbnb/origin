@@ -12,6 +12,6 @@
   "author": "Mike Shultz",
   "license": "MIT",
   "dependencies": {
-    "get-stdin": "^7.0.0"
+    "get-stdin": "^8.0.0"
   }
 }
