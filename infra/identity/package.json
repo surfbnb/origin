@@ -13,11 +13,11 @@
   "dependencies": {
     "@origin/ipfs": "^0.1.0",
     "dotenv": "8.2.0",
-    "envkey": "1.2.7",
+    "envkey": "1.2.8",
     "lodash": "4.17.15",
     "logplease": "1.2.15",
-    "pg": "7.18.1",
-    "sequelize": "5.21.4",
+    "pg": "7.18.2",
+    "sequelize": "5.22.3",
     "sequelize-cli": "5.5.1"
   },
   "devDependencies": {
